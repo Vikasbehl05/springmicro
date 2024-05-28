@@ -1,0 +1,38 @@
+INSERT INTO state (id, state_name, state_code) VALUES (872345, 'Andaman and Nicobar Islands', 'IN-AN');
+INSERT INTO state (id, state_name, state_code) VALUES (456123, 'Andhra Pradesh', 'IN-AP');
+INSERT INTO state (id, state_name, state_code) VALUES (789456, 'Arunachal Pradesh', 'IN-AR');
+INSERT INTO state (id, state_name, state_code) VALUES (123789, 'Assam', 'IN-AS');
+INSERT INTO state (id, state_name, state_code) VALUES (654321, 'Bihar', 'IN-BR');
+INSERT INTO state (id, state_name, state_code) VALUES (234567, 'Chandigarh', 'IN-CG');
+INSERT INTO state (id, state_name, state_code) VALUES (876543, 'Chhattisgarh', 'IN-CH');
+INSERT INTO state (id, state_name, state_code) VALUES (345678, 'Dadra and Nagar Haveli', 'IN-DH');
+INSERT INTO state (id, state_name, state_code) VALUES (456789, 'Daman and Diu', 'IN-DD');
+INSERT INTO state (id, state_name, state_code) VALUES (567890, 'Delhi', 'IN-DL');
+INSERT INTO state (id, state_name, state_code) VALUES (678901, 'Goa', 'IN-GA');
+INSERT INTO state (id, state_name, state_code) VALUES (789012, 'Gujarat', 'IN-GJ');
+INSERT INTO state (id, state_name, state_code) VALUES (890123, 'Haryana', 'IN-HR');
+INSERT INTO state (id, state_name, state_code) VALUES (901234, 'Himachal Pradesh', 'IN-HP');
+INSERT INTO state (id, state_name, state_code) VALUES (912345, 'Jammu and Kashmir', 'IN-JK');
+INSERT INTO state (id, state_name, state_code) VALUES (523456, 'Jharkhand', 'IN-JH');
+INSERT INTO state (id, state_name, state_code) VALUES (634567, 'Karnataka', 'IN-KA');
+INSERT INTO state (id, state_name, state_code) VALUES (745678, 'Kerala', 'IN-KL');
+INSERT INTO state (id, state_name, state_code) VALUES (856789, 'Lakshadweep', 'IN-LD');
+INSERT INTO state (id, state_name, state_code) VALUES (967890, 'Madhya Pradesh', 'IN-MP');
+INSERT INTO state (id, state_name, state_code) VALUES (178901, 'Maharashtra', 'IN-MH');
+INSERT INTO state (id, state_name, state_code) VALUES (289012, 'Manipur', 'IN-MN');
+INSERT INTO state (id, state_name, state_code) VALUES (390123, 'Meghalaya', 'IN-ML');
+INSERT INTO state (id, state_name, state_code) VALUES (491234, 'Mizoram', 'IN-MZ');
+INSERT INTO state (id, state_name, state_code) VALUES (692345, 'Nagaland', 'IN-NL');
+INSERT INTO state (id, state_name, state_code) VALUES (593456, 'Odisha', 'IN-OR');
+INSERT INTO state (id, state_name, state_code) VALUES (794567, 'Puducherry', 'IN-PY');
+INSERT INTO state (id, state_name, state_code) VALUES (895678, 'Punjab', 'IN-PB');
+INSERT INTO state (id, state_name, state_code) VALUES (996789, 'Rajasthan', 'IN-RJ');
+INSERT INTO state (id, state_name, state_code) VALUES (197890, 'Sikkim', 'IN-SK');
+INSERT INTO state (id, state_name, state_code) VALUES (298901, 'Tamil Nadu', 'IN-TN');
+INSERT INTO state (id, state_name, state_code) VALUES (399012, 'Telangana', 'IN-TS');
+INSERT INTO state (id, state_name, state_code) VALUES (491123, 'Tripura', 'IN-TR');
+INSERT INTO state (id, state_name, state_code) VALUES (512234, 'Uttar Pradesh', 'IN-UK');
+INSERT INTO state (id, state_name, state_code) VALUES (623345, 'Uttarakhand', 'IN-UP');
+INSERT INTO state (id, state_name, state_code) VALUES (734456, 'West Bengal', 'IN-WB');
+
+

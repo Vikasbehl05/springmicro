@@ -6,6 +6,8 @@ import java.util.List;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
+import javax.persistence.OneToOne;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
@@ -36,6 +38,9 @@ public class User {
 
 	@Column(name = "ABOUT")
 	private String about;
+
+	@OneToOne
+	private Address address;
 
 	@Transient
 	List<Rating> rating = new ArrayList<>();
